@@ -1,0 +1,24 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="mk">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10492</md:content-id>
+    <md:title>Диференцијално сметање за функции од една променлива</md:title>
+    <md:language>mk</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2cdbc4d6-30db-4861-8e06-247f63b557e1</md:uuid>
+<md:slug>diferentsijalno-smetanje-za-funktsii-od-edna-promenliva</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m35966"/>
+    <col:module document="m51711"/>
+    <col:module document="m35994"/>
+    <col:module document="m35995"/>
+    <col:module document="m35996"/>
+    <col:module document="m43270"/>
+    <col:module document="m41641"/>
+    <col:module document="m42089"/>
+    <col:module document="m36052"/>
+    <col:module document="m45104"/>
+    <col:module document="m45120"/>
+    <col:module document="m45149"/>
+  </col:content>
+</col:collection>
